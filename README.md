@@ -1,5 +1,7 @@
 # course
 
+# Данный проект создавался, как курсовое задание
+
 ## Project setup
 ```
 npm install
